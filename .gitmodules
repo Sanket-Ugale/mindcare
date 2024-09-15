@@ -1,0 +1,6 @@
+[submodule "mindcare-app"]
+	path = mindcare-app
+	url = https://github.com/Sanket-Ugale/mindcare-app
+[submodule "mindcare-dashboard"]
+	path = mindcare-dashboard
+	url = https://github.com/Sanket-Ugale/mindcare-dashboard
